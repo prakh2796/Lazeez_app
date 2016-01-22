@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lazeez</string>
+    <string-array name="category">
+        <item>Soups</item>
+        <item>Starters_Veg</item>
+        <item>Starters_NonVeg</item>
+        <item>Tikka_Roll</item>
+        <item>Momos</item>
+        <item>Chinese</item>
+        <item>Main_Course_Veg</item>
+        <item>Main_Course_NonVeg</item>
+        <item>Mutton</item>
+        <item>Rice</item>
+        <item>Breads</item>
+        <item>Thali</item>
+        <item>Raita_and_Salad</item>
+        <item>Beverages</item>
+    </string-array>
+</resources>
